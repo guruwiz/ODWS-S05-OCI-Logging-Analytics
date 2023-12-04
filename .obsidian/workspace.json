@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05a91cdc8d9734b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APEX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logging Analytics HoL.md",
+                "file": "APEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logging Analytics HoL.md",
+                "file": "APEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logging Analytics HoL.md"
+                "file": "APEX.md"
               }
             }
           },
@@ -156,8 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cecb551caad1a95",
+  "active": "05a91cdc8d9734b8",
   "lastOpenFiles": [
+    "Logging Analytics HoL.md",
+    "APEX.md",
+    "Untitled",
     "assets/Logging Analytics HoL/Pasted image 20231121182615.png",
     "assets/Logging Analytics HoL/Pasted image 20231121182302.png",
     "assets/Logging Analytics HoL/Pasted image 20231121181202.png",
@@ -167,10 +183,8 @@
     "assets/Logging Analytics HoL/Pasted image 20231121175311.png",
     "assets/Logging Analytics HoL/Pasted image 20231121175030.png",
     "assets/Logging Analytics HoL/Pasted image 20231121174529.png",
-    "Logging Analytics HoL.md",
     "conflict-files-obsidian-git.md",
     "assets/Logging Analytics HoL/Pasted image 20231116222440.png",
-    "assets/Logging Analytics HoL/Pasted image 20231116222254.png",
     "Pasted image 20231115122742.png.md",
     "assets/Logging Analytics HoL/b",
     "img/Pasted.md",
